@@ -1,6 +1,7 @@
 Employee Attendance Management and Payroll Generation System
 
 USAGE:
+Php-Laravel Project
 
 1) Project Database Table Structure Details:
    https://drive.google.com/file/d/1ezyqy0dp8wWK73YtdCLi-pgLynWEXRCp/view?usp=drive_link
